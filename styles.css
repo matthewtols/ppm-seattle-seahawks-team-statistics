@@ -1,3 +1,13 @@
+.info {
+  width: 700px; 
+  margin: 20px auto; 
+  padding: 10px;
+  background-color: white;
+  border: 3px solid red;
+  border-radius: 30px;
+  letter-spacing: 2px;
+}
+
 .border {
   border-left: 1px solid black;
 }
