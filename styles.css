@@ -1,10 +1,11 @@
 .info {
   width: 700px; 
-  margin: 20px auto; 
+  margin: 20px auto 0px auto; 
   padding: 10px;
   background-color: white;
   border: 3px solid red;
-  border-radius: 30px;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
   letter-spacing: 2px;
 }
 
