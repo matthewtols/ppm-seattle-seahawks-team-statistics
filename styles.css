@@ -12,9 +12,8 @@
 .table {
   width: 699px;
   background-color: white;
-  margin: 10px auto;
-  padding: 20px;
   letter-spacing: 0px;
+  text-align: center;
 }
 
 .border {
